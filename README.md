@@ -33,7 +33,7 @@ The project leverages the rich camera images and LiDAR point cloud data availabl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Scene-Classification-and-Visualization-Tools-Based-on-Waymo-Dataset.git
+   git clone https://github.com/Rongxuan-Zhou/Scene-Classification-and-Visualization-Tools-Based-on-Waymo-Dataset.git
    cd Scene-Classification-and-Visualization-Tools-Based-on-Waymo-Dataset
    ```
 

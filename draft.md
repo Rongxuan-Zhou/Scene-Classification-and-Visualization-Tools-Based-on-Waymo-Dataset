@@ -1,7 +1,7 @@
 Hi guys, we are excited to share  our project proposal titled 'Scene-Classification-and-Visualization-Tools-Based-on-Waymo-Dataset.'
 
 To begin with, let me briefly introduce Waymo. Waymo is a leader in autonomous driving technology, formerly known as the Google Self-Driving Car Project. 
-Since its inception in 2009, Waymo has been at the forefront of innovation in this field, with its autonomous driving services completing over 200,000 rides weekly.
+Since its inception in 2009, Waymo has been at the forefront of innovation in this fieldx.
 
 The Waymo Open Dataset is a rich and diverse collection of synchronized LiDAR point clouds and high-resolution camera images. It spans various driving scenarios such as urban and suburban areas, day and night conditions, providing researchers with invaluable resources to advance autonomous vehicle technologies."
 

@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Proposal Presentation Outline and Content
 
 ---
@@ -64,10 +58,3 @@
 - A robust toolset enabling intuitive exploration of autonomous driving scenarios.
 - Improved accuracy in autonomous vehicle perception systems through enhanced scene understanding.
 - Contributions to autonomous driving research community through innovative visualization methodologies.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53761015/e5d7d045-55ec-4d79-a5da-4ca0926a27d3/project_proposal.md
-
-[^2]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53761015/e5d7d045-55ec-4d79-a5da-4ca0926a27d3/project_proposal.md
-

@@ -30,3 +30,84 @@ Using Foxglove Studio, we will design dynamic visualizations that include:
 Custom panels displaying scene classification results;
 Statistical visualizations like heatmaps and bar charts;
 Advanced 3D point cloud visualizations for immersive exploration of driving scenarios
+
+
+
+
+Based on the Scene Classification and Visualization Tools project for the Waymo Dataset, here's a task distribution for a three-person team:
+
+## Member 1: Data Processing & Feature Extraction Specialist
+
+**Primary Responsibilities**:
+- Handle Waymo dataset acquisition, conversion, and preprocessing
+- Develop feature extraction modules from raw data
+- Implement data preprocessing pipelines ensuring data quality
+- Maintain data processing infrastructure
+
+**Specific Tasks**:
+- Implement the `waymo_to_mcap.py` conversion script
+- Develop the `feature_extraction.py` module
+- Design and implement data preprocessing pipeline
+- Create data loading and batch processing functionality
+- Document dataset structure and processing methods
+
+**Required Skills**:
+- Proficiency with Python data processing libraries (NumPy, Pandas)
+- Knowledge of TensorFlow data APIs
+- Experience handling large-scale datasets
+- Familiarity with point cloud and image data formats
+
+## Member 2: Scene Classification & Machine Learning Specialist
+
+**Primary Responsibilities**:
+- Design and implement scene classification algorithms
+- Develop rule-based and machine learning classification methods
+- Train and evaluate classification models
+- Optimize classification performance
+
+**Specific Tasks**:
+- Implement the `rule_based.py` classification module
+- Develop the `ml_classifier.py` machine learning classifier
+- Design feature engineering approaches
+- Implement model training and evaluation workflows
+- Create classification result analysis tools
+
+**Required Skills**:
+- Proficiency with machine learning frameworks (Scikit-learn, TensorFlow)
+- Experience with feature engineering
+- Knowledge of computer vision and point cloud processing
+- Model evaluation and optimization capabilities
+
+## Member 3: Visualization & Integration Specialist
+
+**Primary Responsibilities**:
+- Develop data visualization tools and interfaces
+- Implement Foxglove Studio integration
+- Design interactive visualization panels
+- Integrate all modules into a complete system
+
+**Specific Tasks**:
+- Develop the `statistical.py` visualization module
+- Implement `point_cloud.py` for 3D point cloud visualization
+- Create custom panels for Foxglove Studio
+- Develop the `waymo_scene_analyzer.py` integration module
+- Design and implement user interface and interaction features
+
+**Required Skills**:
+- Proficiency with data visualization libraries (Matplotlib, Seaborn)
+- Knowledge of 3D visualization technologies (Open3D)
+- Front-end development experience (JavaScript, React)
+- System integration and API design expertise
+
+## Shared Tasks
+
+- Project planning and requirements analysis
+- Code review and quality assurance
+- Documentation writing and maintenance
+- Testing and debugging
+- Regular team synchronization and progress reporting
+
+This distribution ensures each team member can leverage their expertise while maintaining coordinated development across all project components. The three roles have clear interfaces and dependencies, facilitating collaboration and integration.
+
+---
+Answer from Perplexity: pplx.ai/share

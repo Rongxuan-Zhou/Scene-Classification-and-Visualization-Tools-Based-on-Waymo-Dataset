@@ -26,7 +26,7 @@ The project leverages the rich camera images and LiDAR point cloud data availabl
 The project follows a modular architecture that processes Waymo data through several stages:
 
 ```mermaid
-flowchart LR
+flowchart TD
     %% Data Acquisition and Processing
     A([Waymo Dataset]) --> B[Download Raw Data]
     B --> C[Convert to MCAP Format]
@@ -63,11 +63,11 @@ flowchart LR
     O --> Q
     P --> Q
     
-    %% Styling
-    classDef process fill:#f9f,stroke:#333,stroke-width:2px
-    classDef decision fill:#bbf,stroke:#333,stroke-width:2px
-    classDef data fill:#ffa,stroke:#333,stroke-width:2px
-    classDef output fill:#bfb,stroke:#333,stroke-width:2px
+    %% Styling with black background and white text
+    classDef process fill:#000,stroke:#fff,stroke-width:2px,color:#fff
+    classDef decision fill:#000,stroke:#fff,stroke-width:2px,color:#fff
+    classDef data fill:#000,stroke:#fff,stroke-width:2px,color:#fff
+    classDef output fill:#000,stroke:#fff,stroke-width:2px,color:#fff
     
     class A,Q data
     class F decision
